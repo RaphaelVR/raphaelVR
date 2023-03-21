@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Discogs Companion](http://www.discogscompanion.com/)
 
-- 🌱 I’m currently learning **React and Javascript advanced**
+- 🌱 I’m currently learning **React and Javascript**
 
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **Ruby on Rails/React**
 
 - 📫 How to reach me **raphaelventura55@gmail.com**
 
